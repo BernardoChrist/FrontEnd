@@ -1,0 +1,8 @@
+body {
+  /* Utilizamos o 100vh a altura ficar viewport, vai tampar toda a tela */
+  height: 100vh;
+  background-image: url("../img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
